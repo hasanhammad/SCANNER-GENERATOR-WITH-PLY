@@ -2,7 +2,9 @@
 PLY - PYTHON
 
 
-GRAMMAR : P ==> D C
+GRAMMAR : 
+
+P ==> D C
 
 D ==> id = (num , num) , D
 
